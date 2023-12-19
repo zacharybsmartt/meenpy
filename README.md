@@ -138,5 +138,3 @@ MEEN 461 covers heat transfer mechanisms, including conduction, convection, and 
 
 
 ---
-
-Feel free to customize the documentation and add more functions or sections as your library evolves. Happy coding!
