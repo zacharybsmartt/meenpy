@@ -16,6 +16,7 @@ MEEN 225 covers the fundamental principles of statics and dynamics. Topics inclu
 - `meenpy.statics.solve_equilibrium()`: Solves static equilibrium problems.
 - `meenpy.dynamics.particle_kinematics()`: Computes particle kinetics.
 
+
 ### Mechanical Measurements (MEEN 260)
 
 #### Course Overview
@@ -25,6 +26,7 @@ MEEN 260 focuses on measurement techniques and instrumentation used in mechanica
 
 - `meenpy.measurements.sensor_calibration()`: Calibrates sensors for accurate measurements.
 - `meenpy.measurements.data_analysis()`: Analyzes experimental data.
+
 
 ### Solid Mechanics (MEEN 305)
 
@@ -36,6 +38,7 @@ MEEN 305 delves into the principles of solid mechanics, covering topics like str
 - `meenpy.solid_mechanics.calculate_stress()`: Computes stress in a material.
 - `meenpy.solid_mechanics.calculate_strain()`: Calculates strain in a material.
 
+
 ### Principles of Thermodynamics (MEEN 315)
 
 #### Course Overview
@@ -45,6 +48,7 @@ MEEN 315 explores the principles of thermodynamics, covering topics such as ener
 
 - `meenpy.thermodynamics.calculate_entropy()`: Computes entropy changes.
 - `meenpy.heat_transfer.conduction()`: Calculates heat conduction.
+
 
 ### Fluid Mechanics (MEEN 344)
 
@@ -56,6 +60,7 @@ MEEN 344 explores fluid properties, fluid statics, and dynamics, including Berno
 - `meenpy.fluid_mechanics.calculate_pressure()`: Computes fluid pressure.
 - `meenpy.fluid_mechanics.solve_pipe_flow()`: Solves pipe flow problems.
 
+
 ### Engineering Analysis for Mechanical Engineers (MEEN 357)
 
 #### Course Overview
@@ -65,6 +70,7 @@ MEEN 357 focuses on mathematical techniques for solving engineering problems, in
 
 - `meenpy.engineering_analysis.solve_differential_equations()`: Solves differential equations.
 - `meenpy.engineering_analysis.optimize()`: Performs optimization.
+
 
 ### Materials and Manufacturing Selection in Design (MEEN 360)
 
@@ -76,6 +82,7 @@ MEEN 360 explores materials selection and manufacturing processes in the context
 - `meenpy.materials.select_material()`: Assists in the selection of materials for a design.
 - `meenpy.manufacturing.optimize_manufacturing_process()`: Optimizes the manufacturing process for cost and efficiency.
 
+
 ### Dynamics and Vibrations (MEEN 363)
 
 #### Course Overview
@@ -85,6 +92,7 @@ MEEN 363 covers the analysis of mechanical systems in motion and introduces conc
 
 - `meenpy.dynamics.analyze_motion()`: Analyzes motion of mechanical systems.
 - `meenpy.dynamics.calculate_vibration_modes()`: Computes vibration modes.
+
 
 ### Dynamic Systems and Controls (MEEN 364)
 
@@ -96,6 +104,7 @@ MEEN 364 explores dynamic systems and control theory, including feedback control
 - `meenpy.controls.design_pid_controller()`: Designs a PID controller.
 - `meenpy.controls.analyze_system_stability()`: Analyzes system stability.
 
+
 ### Solid Mechanics in Mechanical Design (MEEN 368)
 
 #### Course Overview
@@ -105,6 +114,7 @@ MEEN 386 focuses on the application of solid mechanics principles to mechanical 
 
 - `meenpy.design.calculate_factor_of_safety()`: Calculates the factor of safety for a design.
 - `meenpy.design.optimize_component_geometry()`: Optimizes component geometry for strength.
+
 
 ### Heat Transfer (MEEN 461)
 
